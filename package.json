@@ -1,0 +1,15 @@
+{
+  "name": "guessing-game",
+  "version": "1.0.0",
+  "description": "Would you like to play a game?",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david@banham.id.au",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "mongoose": "^3.8.19"
+  }
+}
